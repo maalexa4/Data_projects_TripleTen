@@ -5,7 +5,7 @@ Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
 | 1 | TV Show Ratings| The aim of this project is to investigate how the number of votes a title receives from IMDb users impacts its ratings.|
-| 2 | [Instacart](https://github.com/zarina-perez/TripleTen_projects/tree/main/02-EDA_project) | The project task was to prepare a report that gives insight into the shopping habits of Instacart customers.|
+| 2 | Instacart | The project task was to prepare a report that gives insight into the shopping habits of Instacart customers.|
 | 3 | Telecom Operator Megaline | The commercial department wants to know which of the plans brings in more revenue in order to adjust the advertising budget.|
 | 4 | Software Development Tools | Develop and deploy a web application to a cloud service so that it is accessible to the public on car sales.|
 | 5 | Video Game Success | Identify patterns that determine whether a game succeeds or not.|
